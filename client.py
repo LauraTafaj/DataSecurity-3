@@ -1,4 +1,3 @@
-# client_gui.py
 import base64
 import socket
 from tkinter import *
