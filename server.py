@@ -1,4 +1,3 @@
-# server_gui.py
 import base64
 import socket
 import threading
